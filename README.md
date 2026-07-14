@@ -1,1 +1,13 @@
+## Context
+
 This project presents a lightweight decision-support framework for unmanned aerial vehicle (UAV) cargo operations in a coastal urban environment. The objective was not only to generate synthetic operational data but also to transform that data into meaningful performance indicators that can support mission planning and post-flight evaluation.
+
+## Results
+
+### Mission ranking comparison
+
+![Mission Ranking](mission_performance_comparison.png)
+
+### Mission Performance Score breakdown
+
+![Mission Scores](mission_scores.png)
