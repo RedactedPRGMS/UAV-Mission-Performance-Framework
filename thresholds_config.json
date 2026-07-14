@@ -1,0 +1,10 @@
+{
+  "high_gust_ms": 15,
+  "extreme_gust_ms": 25,
+  "low_visibility_m": 3000,
+  "very_low_visibility_m": 1500,
+  "low_battery_pct": 25,
+  "high_wind_speed_ms": 12,
+  "low_temperature_c": 10,
+  "high_temperature_c": 35
+}

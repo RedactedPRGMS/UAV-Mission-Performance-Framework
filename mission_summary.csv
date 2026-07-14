@@ -1,0 +1,6 @@
+mission_id,safe_count,degraded_count,unsafe_count,safe_pct,degraded_pct,unsafe_pct,triggered_rules
+1,45,0,0,100.0,0.0,0.0,
+2,46,9,0,83.6,16.4,0.0,LOW_BATTERY
+3,24,3,23,48.0,6.0,46.0,"COMPOUND_RISK, EXTREME_GUST, HIGH_GUST, HIGH_WIND_SPEED, LOW_VISIBILITY, VERY_LOW_VISIBILITY"
+4,0,0,45,0.0,0.0,100.0,"COMPOUND_RISK, EXTREME_GUST, HIGH_GUST, HIGH_WIND_SPEED, LOW_BATTERY"
+5,35,0,0,100.0,0.0,0.0,
